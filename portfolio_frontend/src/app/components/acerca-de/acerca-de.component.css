@@ -36,8 +36,21 @@ div{
     margin-top: 0,5%;
     color: rgb(250, 245, 245);
 }
+#profile{
+    font-weight:bold;
+    font-size:25px;
+    font-style:italic;
+    font-family: Candara;
+    text-shadow: 1px 1px 1px #546E7A;
+    margin-top: 0,5%;
+    color: rgb(250, 245, 245);
+}
 /*sobre mi*/
 #sobremi{
+    font-weight:bold;
+    font-size:20px;
+    font-style:italic;
+    font-family: Candara;
     margin-left:80px;
     color:rgb(234, 240, 247)
 }
