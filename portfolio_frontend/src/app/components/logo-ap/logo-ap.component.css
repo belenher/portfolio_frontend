@@ -1,4 +1,5 @@
 .container{
+    background-color: black;
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -8,7 +9,7 @@
 }
 #logoAP{
     width:150px;
-    
+
 }
 img{
     width:50px;
