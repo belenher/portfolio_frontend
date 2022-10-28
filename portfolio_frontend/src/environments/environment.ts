@@ -4,10 +4,6 @@
 
 export const environment = {
   production: false
-
- // URL: 'http://localhost:8080/'
- //URL: "https://portfolio-frontend-b4afd.web.app"
-
 };
 
 /*
